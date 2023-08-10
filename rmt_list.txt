@@ -1,0 +1,2 @@
+# RMT関連
+0.0.0.0 gametrade.jp
