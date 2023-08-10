@@ -1,2 +1,42 @@
-# RMT関連
+## RMT関連
+
+# ゲームトレード
 0.0.0.0 gametrade.jp
+
+# マツブシ #
+0.0.0.0 matubusi.com
+0.0.0.0 matubusi-market.com
+0.0.0.0 www.matubusi.com
+0.0.0.0 www.matubusi-market.com
+
+# タクミ #
+0.0.0.0 rmt-takumi.com
+0.0.0.0 www.rmt-takumi.com
+
+# vip "
+0.0.0.0 rmtvip.jp
+0.0.0.0 www.rmtvip.jp
+
+# dream #
+0.0.0.0 rmtdream.com
+0.0.0.0 www.rmtdream.com
+
+# rmtink #
+0.0.0.0 rmtinc.jp
+0.0.0.0 www.rmtinc.jp
+
+# wm #
+0.0.0.0 rmt-wm.com
+0.0.0.0 www.rmt-wm.com
+
+# link #
+0.0.0.0 rmtlink.jp
+0.0.0.0 www.rmtlink.jp
+
+# ぱすてる #
+0.0.0.0 pastel-rmt.jp
+0.0.0.0 www.pastel-rmt.jp
+
+# ゲームデータ #
+0.0.0.0 gamedata.jp
+0.0.0.0 www.gamedata.jp
