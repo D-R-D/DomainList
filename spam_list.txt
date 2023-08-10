@@ -1,0 +1,5 @@
+# スパム
+0.0.0.0 anime0128.com
+0.0.0.0 reverso.net
+0.0.0.0 bnc.lt
+0.0.0.0 c4connect.co.jp
