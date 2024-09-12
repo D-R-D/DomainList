@@ -1,2 +1,3 @@
 # noisy
 0.0.0.0 hero-wars.com
+0.0.0.0 9bob.net
