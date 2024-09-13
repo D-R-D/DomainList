@@ -3,3 +3,5 @@
 0.0.0.0 www.hero-wars.com
 0.0.0.0 9bob.net
 0.0.0.0 www.9bob.net
+0.0.0.0 maxngame.com
+0.0.0.0 www.maxngame.com
